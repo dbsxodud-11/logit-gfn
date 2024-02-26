@@ -14,9 +14,8 @@ Our implementation is heavily based on "Towards Understanding and Improving GFlo
 
 ### Large Files
 
-To run `sehstr` task, you should download `sehstr_gbtr_allpreds.pkl.gz` and `block_18_stop6.pkl.gz`. Both are available for download at https://figshare.com/articles/dataset/sEH_dataset_for_GFlowNet_/22806671
-DOI: 10.6084/m9.figshare.22806671
-These files should be placed in `datasets/sehstr/`
+You can download additional large files by following link:
+These files should be placed in `datasets`
 
 ### Offline Generalization
 You can run the following command to valiate the effectiveness of Logit-GFN on offline generalization. As a default setting, Logit-GFN and Layer-GFN are trained with $\beta\sim\text{Unif}[10, 50]$ and evaluate with multiple $\beta$ values from $\beta=1$ to $\beta=5,000$.

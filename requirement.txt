@@ -4,7 +4,7 @@ pyyaml==6.0.1
 ray==2.6.2
 rdkit==2023.3.2
 flexs==0.2.8
-viennarna==2.5.0
 polyleven==0.8
 networkx==2.6.3
 wandb==0.15.3
+viennarna
