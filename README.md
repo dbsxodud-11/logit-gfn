@@ -14,7 +14,8 @@ Our implementation is heavily based on "Towards Understanding and Improving GFlo
 
 ### Large Files
 
-You can download additional large files by following link:
+You can download additional large files by following link: https://drive.google.com/drive/folders/1JP1XuKpb9JuytYyh6DMa_iBzyno21wrq?usp=sharing
+
 These files should be placed in `datasets`
 
 ### Offline Generalization
