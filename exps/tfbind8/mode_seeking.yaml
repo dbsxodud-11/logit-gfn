@@ -96,5 +96,6 @@ scale_reward_max: 10
 reward_exp: 3
 
 # experiment-specific settings
+x_to_r_file: datasets/tfbind8/tfbind8-exact-v0-all.pkl
 mode_file: datasets/tfbind8/modes_tfbind8.pkl
 forced_stop_len: 8
