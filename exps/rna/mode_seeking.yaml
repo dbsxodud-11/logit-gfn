@@ -96,6 +96,6 @@ scale_reward_max: 10
 reward_exp: 8
 
 # experiment-specific settings
-allpreds_file: datasets/rna/rna_allpreds.pkl
-mode_file: datasets/rna/modes_rna.pkl
+allpreds_file: datasets/rna/rna_allpreds1.pkl
+mode_file: datasets/rna/modes_rna1.pkl
 forced_stop_len: 14

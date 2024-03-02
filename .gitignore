@@ -5,7 +5,7 @@ __pycache__
 block_18_stop6.pkl
 sehstr_gbtr_allpreds.pkl
 tfbind10-exact-v0-all.pkl
-rna_allpreds.pkl
+rna_allpreds*.pkl
 *.npy
 *.zip
 *.csv
