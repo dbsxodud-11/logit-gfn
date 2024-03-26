@@ -10,7 +10,6 @@ rna_allpreds*.pkl
 *.zip
 *.csv
 *.log
-*.png
 
 logs/
 wandb/

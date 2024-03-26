@@ -119,3 +119,7 @@ python main.py --task mode_seeking --setting tfbind8 --temp_cond --temp_cond_typ
 # Simulated Annealing (Inverse)
 python main.py --task mode_seeking --setting tfbind8 --temp_cond --temp_cond_type logit --exp_temp_dist annealing-inv --exp_temp_min 1 --exp_temp_max 3
 ```
+### Toy-Experiment
+
+We visualize the empirical distributions from temperature-conditional GFlowNets and unconditional GFlowNets on GridWorld Environments. 
+![](imgs/gridworld_visualize.png)
